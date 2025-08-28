@@ -1,0 +1,728 @@
+[
+  {
+    "id": "mushroom_1",
+    "name": "Button / Cremini / Portobello (Agaricus bisporus)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Agaricus_bisporus_mushroom.jpg"
+    ],
+    "summary": "\u2022 Rich in B-vitamins and minerals that support metabolism.",
+    "benefits": [
+      "\u2022 Rich in B-vitamins and minerals that support metabolism.",
+      "\u2022 Exposure to UV light boosts vitamin D2, aiding bone health.",
+      "\u2022 Contains antioxidants like ergothioneine."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Food therapy only",
+    "active_compounds": [
+      {
+        "name": "Ergothioneine",
+        "link": "https://en.wikipedia.org/wiki/Ergothioneine"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Generally safe; may cause gas in sensitive individuals.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23482613/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_2",
+    "name": "Shiitake (Lentinula edodes)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Lentinula_edodes_2017_G1.jpg"
+    ],
+    "summary": "\u2022 Supports immune function through lentinan polysaccharides.",
+    "benefits": [
+      "\u2022 Supports immune function through lentinan polysaccharides.",
+      "\u2022 May lower cholesterol via eritadenine.",
+      "\u2022 Antimicrobial and antiviral effects in lab studies."
+    ],
+    "typical_usage": "Food, tea, extract",
+    "tcm_usage": "TCM: strengthens Qi, boosts immunity",
+    "active_compounds": [
+      {
+        "name": "Lentinan",
+        "link": "https://en.wikipedia.org/wiki/Lentinan"
+      },
+      {
+        "name": "Eritadenine",
+        "link": "https://en.wikipedia.org/wiki/Eritadenine"
+      }
+    ],
+    "safety": "Rare shiitake dermatitis (rash); caution with immunosuppressants.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25799026/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_3",
+    "name": "Oyster (Pleurotus ostreatus)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG2a.jpg"
+    ],
+    "summary": "\u2022 \u03b2-glucans may reduce cholesterol.",
+    "benefits": [
+      "\u2022 \u03b2-glucans may reduce cholesterol.",
+      "\u2022 Contains lovastatin-like compounds.",
+      "\u2022 Good protein and micronutrient source."
+    ],
+    "typical_usage": "Food, powder",
+    "tcm_usage": "Not major TCM use",
+    "active_compounds": [
+      {
+        "name": "Lovastatin",
+        "link": "https://en.wikipedia.org/wiki/Lovastatin"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Rare allergies; may interact with statins.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18544117/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_4",
+    "name": "Enoki (Flammulina filiformis)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Flammulina_velutipes100.jpg"
+    ],
+    "summary": "\u2022 Rich in antioxidants like ergothioneine.",
+    "benefits": [
+      "\u2022 Rich in antioxidants like ergothioneine.",
+      "\u2022 Polysaccharides studied for immune activity.",
+      "\u2022 Traditional food linked with longevity."
+    ],
+    "typical_usage": "Soups, food, extract",
+    "tcm_usage": "Food therapy only",
+    "active_compounds": [
+      {
+        "name": "Ergothioneine",
+        "link": "https://en.wikipedia.org/wiki/Ergothioneine"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Generally safe; must be cooked to avoid mild toxins.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551042/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_5",
+    "name": "King trumpet (Pleurotus eryngii)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Pleurotus_eryngii_in_Gucevo,_Serbia_-_2013-06-08.jpg"
+    ],
+    "summary": "\u2022 Dietary fiber and \u03b2-glucans aid gut health.",
+    "benefits": [
+      "\u2022 Dietary fiber and \u03b2-glucans aid gut health.",
+      "\u2022 Possible lipid-lowering activity.",
+      "\u2022 High antioxidant content."
+    ],
+    "typical_usage": "Food, powder",
+    "tcm_usage": "Not in TCM classics",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe; same cautions as other mushrooms.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551042/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_6",
+    "name": "Maitake (Grifola frondosa)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Grifola_frondosa_ani09.jpg"
+    ],
+    "summary": "\u2022 D-fraction \u03b2-glucans modulate immunity.",
+    "benefits": [
+      "\u2022 D-fraction \u03b2-glucans modulate immunity.",
+      "\u2022 May support healthy blood sugar regulation.",
+      "\u2022 Antioxidant activity."
+    ],
+    "typical_usage": "Food, extract, tea",
+    "tcm_usage": "TCM: qi-tonic, immune support",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      },
+      {
+        "name": "Grifola_frondosa",
+        "link": "https://en.wikipedia.org/wiki/Grifola_frondosa"
+      }
+    ],
+    "safety": "May enhance hypoglycemic drugs.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30216240/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_7",
+    "name": "Lion\u2019s Mane (Hericium erinaceus)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Hericium_erinaceus_2012_G1.jpg"
+    ],
+    "summary": "\u2022 Stimulates nerve growth factor (NGF).",
+    "benefits": [
+      "\u2022 Stimulates nerve growth factor (NGF).",
+      "\u2022 Small RCTs show cognitive improvement.",
+      "\u2022 Supports digestion."
+    ],
+    "typical_usage": "Extract, capsules, tea",
+    "tcm_usage": "TCM: \u201cSpleen/stomach\u201d tonic",
+    "active_compounds": [
+      {
+        "name": "Hericium_erinaceus",
+        "link": "https://en.wikipedia.org/wiki/Hericium_erinaceus"
+      }
+    ],
+    "safety": "Generally safe; mild GI upset possible.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18844328/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_8",
+    "name": "Reishi / Lingzhi (Ganoderma lucidum)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Ganoderma_Lucidum_01.jpg"
+    ],
+    "summary": "\u2022 Immune modulator via triterpenes & polysaccharides.",
+    "benefits": [
+      "\u2022 Immune modulator via triterpenes & polysaccharides.",
+      "\u2022 May improve sleep and reduce fatigue.",
+      "\u2022 Studied as adjunct in cancer care."
+    ],
+    "typical_usage": "Tea, extract, spores",
+    "tcm_usage": "TCM: Shen-calming, Qi-tonifying",
+    "active_compounds": [
+      {
+        "name": "Ganoderic_acid",
+        "link": "https://en.wikipedia.org/wiki/Ganoderic_acid"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "May increase bleeding risk (anticoagulants); caution with hypotension.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ganoderma"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_9",
+    "name": "Turkey Tail (Trametes versicolor)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Trametes_versicolor_67.jpg"
+    ],
+    "summary": "\u2022 Polysaccharopeptides (PSP/PSK) studied for immune support.",
+    "benefits": [
+      "\u2022 Polysaccharopeptides (PSP/PSK) studied for immune support.",
+      "\u2022 Adjunct in cancer immunotherapy.",
+      "\u2022 Antioxidant activity."
+    ],
+    "typical_usage": "Extract, tea",
+    "tcm_usage": "TCM: \u201cYunzhi,\u201d immune tonic",
+    "active_compounds": [
+      {
+        "name": "Krestin",
+        "link": "https://en.wikipedia.org/wiki/Krestin"
+      },
+      {
+        "name": "Polysaccharide-peptide",
+        "link": "https://en.wikipedia.org/wiki/Polysaccharide-peptide"
+      }
+    ],
+    "safety": "Safe; GI upset possible; interacts with immunotherapy.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22891863/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_10",
+    "name": "Chaga (Inonotus obliquus)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Inonotus_obliquus1.JPG"
+    ],
+    "summary": "\u2022 Rich in antioxidants (melanins, polyphenols).",
+    "benefits": [
+      "\u2022 Rich in antioxidants (melanins, polyphenols).",
+      "\u2022 Folk remedy for immune & gut health.",
+      "\u2022 Anti-inflammatory potential."
+    ],
+    "typical_usage": "Tea, extract",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Melanin",
+        "link": "https://en.wikipedia.org/wiki/Melanin"
+      },
+      {
+        "name": "Betulinic_acid",
+        "link": "https://en.wikipedia.org/wiki/Betulinic_acid"
+      }
+    ],
+    "safety": "May lower blood sugar; caution with anticoagulants.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33119922/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_11",
+    "name": "Cordyceps (Ophiocordyceps sinensis / Cordyceps militaris)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Forest_caterpillar_fungus.jpg"
+    ],
+    "summary": "\u2022 Enhances energy/endurance (ATP support).",
+    "benefits": [
+      "\u2022 Enhances energy/endurance (ATP support).",
+      "\u2022 May improve kidney function in CKD.",
+      "\u2022 Supports lung health."
+    ],
+    "typical_usage": "Extract, capsules, tea",
+    "tcm_usage": "TCM: Lung & kidney tonic (Dong Chong Xia Cao)",
+    "active_compounds": [
+      {
+        "name": "Cordycepin",
+        "link": "https://en.wikipedia.org/wiki/Cordycepin"
+      },
+      {
+        "name": "Polysaccharide",
+        "link": "https://en.wikipedia.org/wiki/Polysaccharide"
+      }
+    ],
+    "safety": "Caution with autoimmune disease; mild GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26637826/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_12",
+    "name": "Porcini (Boletus edulis)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Boletus_edulis_EtgHollande.jpg"
+    ],
+    "summary": "\u2022 Antioxidant and phenolic compounds.",
+    "benefits": [
+      "\u2022 Antioxidant and phenolic compounds.",
+      "\u2022 High in dietary fiber.",
+      "\u2022 Rich culinary flavor."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Phenolic_acid",
+        "link": "https://en.wikipedia.org/wiki/Phenolic_acid"
+      }
+    ],
+    "safety": "Safe; occasional allergy.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_13",
+    "name": "Morel (Morchella esculenta)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Morchella_esculenta_PICT1689a.jpg"
+    ],
+    "summary": "\u2022 Rich in antioxidants and vitamins.",
+    "benefits": [
+      "\u2022 Rich in antioxidants and vitamins.",
+      "\u2022 High in protein relative to other fungi.",
+      "\u2022 Immune-modulating polysaccharides."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Must be cooked (raw may be toxic).",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_14",
+    "name": "Chanterelle (Cantharellus cibarius)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Chanterelle_Cantharellus_cibarius.jpg"
+    ],
+    "summary": "\u2022 Rich in carotenoids, vitamin D precursors.",
+    "benefits": [
+      "\u2022 Rich in carotenoids, vitamin D precursors.",
+      "\u2022 Antioxidant capacity.",
+      "\u2022 Culinary delicacy."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Carotenoid",
+        "link": "https://en.wikipedia.org/wiki/Carotenoid"
+      }
+    ],
+    "safety": "Safe; occasional GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_15",
+    "name": "Snow Fungus / Silver Ear (Tremella fuciformis)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Tremella_fuciformis_yamashina01.jpg"
+    ],
+    "summary": "\u2022 Hydrating polysaccharides for skin.",
+    "benefits": [
+      "\u2022 Hydrating polysaccharides for skin.",
+      "\u2022 Supports immune system.",
+      "\u2022 Antioxidant properties."
+    ],
+    "typical_usage": "Desserts, soups, extract",
+    "tcm_usage": "TCM: Yin-nourishing, moistens lungs",
+    "active_compounds": [
+      {
+        "name": "Tremella",
+        "link": "https://en.wikipedia.org/wiki/Tremella"
+      }
+    ],
+    "safety": "Safe; very mild GI upset possible.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30669793/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_16",
+    "name": "Wood Ear (Auricularia auricula-judae)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Auricularia_auricula-judae.jpg"
+    ],
+    "summary": "\u2022 Rich in iron & fiber.",
+    "benefits": [
+      "\u2022 Rich in iron & fiber.",
+      "\u2022 Antioxidant polysaccharides.",
+      "\u2022 May support cholesterol control."
+    ],
+    "typical_usage": "Soups, stir-fry, extract",
+    "tcm_usage": "TCM: Improves circulation",
+    "active_compounds": [
+      {
+        "name": "Auricularia_auricula-judae",
+        "link": "https://en.wikipedia.org/wiki/Auricularia_auricula-judae"
+      }
+    ],
+    "safety": "May increase bleeding risk.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_17",
+    "name": "Agarikon (Laricifomes officinalis)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Laricifomes_officinalis.jpg"
+    ],
+    "summary": "\u2022 Traditional European remedy for respiratory infections.",
+    "benefits": [
+      "\u2022 Traditional European remedy for respiratory infections.",
+      "\u2022 Antimicrobial compounds identified.",
+      "\u2022 Antioxidant polysaccharides."
+    ],
+    "typical_usage": "Extract",
+    "tcm_usage": "Folk European use (not TCM)",
+    "active_compounds": [
+      {
+        "name": "Lanostane",
+        "link": "https://en.wikipedia.org/wiki/Lanostane"
+      }
+    ],
+    "safety": "Sparse human data; avoid during pregnancy.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_18",
+    "name": "King Stropharia / Wine Cap (Stropharia rugosoannulata)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Stropharia_rugosoannulata.jpg"
+    ],
+    "summary": "\u2022 Edible gourmet mushroom.",
+    "benefits": [
+      "\u2022 Edible gourmet mushroom.",
+      "\u2022 Contains immune-supportive polysaccharides.",
+      "\u2022 Useful in permaculture for soil health."
+    ],
+    "typical_usage": "Food, cultivation",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe, but must not be confused with toxic lookalikes.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_19",
+    "name": "Shimeji (Hypsizygus tessellatus)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Hypsizygus_tessellatus.jpg"
+    ],
+    "summary": "\u2022 Rich in antioxidants and polysaccharides.",
+    "benefits": [
+      "\u2022 Rich in antioxidants and polysaccharides.",
+      "\u2022 Immune supportive activity.",
+      "\u2022 Popular gourmet mushroom."
+    ],
+    "typical_usage": "Food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe; bitter if eaten raw.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_20",
+    "name": "Pioppino (Agrocybe aegerita)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Agrocybe_aegerita.jpg"
+    ],
+    "summary": "\u2022 Contains antioxidants and ergosterol.",
+    "benefits": [
+      "\u2022 Contains antioxidants and ergosterol.",
+      "\u2022 May support cholesterol management.",
+      "\u2022 Popular in Mediterranean cuisine."
+    ],
+    "typical_usage": "Food, extract",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Ergosterol",
+        "link": "https://en.wikipedia.org/wiki/Ergosterol"
+      }
+    ],
+    "safety": "Safe when cooked; raw may cause GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_21",
+    "name": "Paddy Straw (Volvariella volvacea)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Volvariella_volvacea_2.jpg"
+    ],
+    "summary": "\u2022 Rich in protein and vitamins.",
+    "benefits": [
+      "\u2022 Rich in protein and vitamins.",
+      "\u2022 Widely cultivated in SE Asia.",
+      "\u2022 Contains polysaccharides with antioxidant activity."
+    ],
+    "typical_usage": "Food",
+    "tcm_usage": "Limited TCM use",
+    "active_compounds": [
+      {
+        "name": "Polysaccharide",
+        "link": "https://en.wikipedia.org/wiki/Polysaccharide"
+      }
+    ],
+    "safety": "Safe; allergenic in rare cases.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_22",
+    "name": "Black Truffle (Tuber melanosporum)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Tuber_melanosporum_03.jpg"
+    ],
+    "summary": "\u2022 Culinary delicacy with unique volatiles.",
+    "benefits": [
+      "\u2022 Culinary delicacy with unique volatiles.",
+      "\u2022 Contains antioxidants.",
+      "\u2022 Possible antimicrobial compounds."
+    ],
+    "typical_usage": "Food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Volatile_organic_compound",
+        "link": "https://en.wikipedia.org/wiki/Volatile_organic_compound"
+      }
+    ],
+    "safety": "Safe; very expensive, rare adulteration.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_23",
+    "name": "Cauliflower Mushroom (Sparassis crispa)",
+    "images": [
+      "https://commons.wikimedia.org/wiki/File:Sparassis_crispa_1.jpg"
+    ],
+    "summary": "\u2022 Immune-enhancing \u03b2-glucans.",
+    "benefits": [
+      "\u2022 Immune-enhancing \u03b2-glucans.",
+      "\u2022 Potential neuroprotective effects.",
+      "\u2022 Edible and flavorful."
+    ],
+    "typical_usage": "Food, extract",
+    "tcm_usage": "Japanese folk medicine use",
+    "active_compounds": [
+      {
+        "name": "Sparassis",
+        "link": "https://en.wikipedia.org/wiki/Sparassis"
+      }
+    ],
+    "safety": "May enhance immune response, caution with autoimmunity.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  }
+]
