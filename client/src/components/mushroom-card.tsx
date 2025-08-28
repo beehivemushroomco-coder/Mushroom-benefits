@@ -20,6 +20,14 @@ export default function MushroomCard({ mushroom }: MushroomCardProps) {
               alt={mushroom.name}
               className="w-full h-48 lg:h-full object-cover rounded-lg"
               data-testid={`img-mushroom-${mushroom.id}`}
+              onError={(e) => {
+                console.log(`Failed to load image: ${mushroom.images[0]}`);
+                const target = e.target as HTMLImageElement;
+                target.src = "https://via.placeholder.com/400x300?text=Image+Not+Available";
+              }}
+              onLoad={() => {
+                console.log(`Successfully loaded image: ${mushroom.images[0]}`);
+              }}
             />
           </div>
 
