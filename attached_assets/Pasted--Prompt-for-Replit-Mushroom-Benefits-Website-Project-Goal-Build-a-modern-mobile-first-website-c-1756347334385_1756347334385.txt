@@ -1,0 +1,140 @@
+🍄 Prompt for Replit: Mushroom Benefits Website
+
+Project Goal
+Build a modern, mobile-first website called Mushroom Benefits that displays information about 25 medicinal/gourmet mushrooms. Data comes from a mushrooms.json file. Users can browse, search, view detailed pages, and see ads + affiliate products.
+
+Tech Stack
+
+Frontend: React + Tailwind CSS
+
+Theme: Vibrant natural colors with minimalist influence
+
+Dark Mode: Automatically follows user system settings
+
+Ads: Google AdSense sidebar + inline ads
+
+Affiliate Links: Each mushroom has up to 3 product links
+
+Data Source
+
+Use a JSON database called mushrooms.json with this schema:
+
+{
+  "id": "reishi",
+  "name": "Reishi (Ganoderma lucidum)",
+  "images": [
+    "https://commons.wikimedia.org/wiki/File:Ganoderma_Lucidum_01.jpg"
+  ],
+  "summary": "Immune modulator, sleep support, adjunct in cancer care.",
+  "benefits": [
+    "Immune modulator via triterpenes & polysaccharides",
+    "May improve sleep and reduce fatigue",
+    "Studied as adjunct in cancer care"
+  ],
+  "typical_usage": "Tea, extract, spores",
+  "tcm_usage": "Shen-calming, Qi-tonifying",
+  "active_compounds": [
+    { "name": "Ganoderic acid", "link": "https://en.wikipedia.org/wiki/Ganoderic_acid" },
+    { "name": "Beta-glucan", "link": "https://en.wikipedia.org/wiki/Beta-glucan" }
+  ],
+  "safety": "May increase bleeding risk (anticoagulants); caution with hypotension.",
+  "clinical_links": [
+    {
+      "title": "Ganoderma Lucidum in Cancer Therapy",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/..."
+    }
+  ],
+  "articles": [],
+  "affiliate_links": [],
+  "discussions": []
+}
+
+Pages / Components
+🏠 Homepage
+
+Header (sticky)
+
+Left: "Mushroom Benefits" (site title, links home)
+
+Right: Search button (expands overlay to search across all fields)
+
+Main Content
+
+List of mushroom cards:
+
+[Thumbnail]  Reishi (Ganoderma lucidum)  
+Summary: "Immune modulator, sleep support..."  
+[View Details →]  
+
+
+Inline AdSense block after every 4 cards
+
+Sidebar (desktop only)
+
+AdSense block
+
+Spotlight affiliate links
+
+Footer
+
+"About | Contact | Disclaimer"
+
+Affiliate disclaimer: "This site contains affiliate links."
+
+📖 Mushroom Detail Page (Modal or new page)
+
+Image carousel (swipeable on mobile)
+
+Title + Summary
+
+Sections (accordion on mobile, expanded on desktop):
+
+✅ Benefits
+
+🍵 Typical Usage
+
+🌿 TCM Usage
+
+🔬 Active Compounds (with external links)
+
+⚠️ Safety / Contraindications
+
+📚 Clinical Research (with clickable titles)
+
+🛒 Recommended Products (1–3 affiliate links)
+
+💬 Discussion placeholder (stub for future Reddit-like commenting system)
+
+Design Notes
+
+Colors: muted green + golden highlights
+
+Background: light beige (light mode), dark slate (dark mode)
+
+Cards: rounded corners, soft shadows, hover/press animation
+
+Responsive: prioritize mobile; sidebar collapses
+
+Ads: inline for mobile, sidebar for desktop
+
+Extra Requirements
+
+Support custom image uploads per mushroom (prep upload input in the detail page)
+
+Future-ready discussions: Prepare database structure for threaded comments
+
+Affiliate product slots: JSON should allow 1–3 per mushroom
+
+Deliverables
+
+React + Tailwind project that reads from mushrooms.json
+
+Components for homepage, mushroom cards, detail view
+
+AdSense integration placeholders (<div id="ad-slot">)
+
+JSON loader + search functionality
+
+Fully responsive design
+
+👉 Replit, please generate the full project scaffold with the above requirements, so I can drop in mushrooms.json, Google AdSense code, and affiliate links later.
