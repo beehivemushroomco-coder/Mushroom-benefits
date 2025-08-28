@@ -1,0 +1,76 @@
+Link	Name	Created	License	Attribution	Thumbnail
+https://mushroomobserver.org/images/640/153862.jpg	Agaricus bisporus	2011-06-25	http://creativecommons.org/licenses/by-sa/3.0/	Tim Sage	Yes
+https://mushroomobserver.org/images/640/153866.jpg	Agaricus bisporus	2011-06-25	http://creativecommons.org/licenses/by-sa/3.0/	Tim Sage	No
+https://mushroomobserver.org/images/640/153868.jpg	Agaricus bisporus	2011-06-25	http://creativecommons.org/licenses/by-sa/3.0/	Tim Sage	No
+https://mushroomobserver.org/images/640/705.jpg	Agaricus bisporus	2003-02-14	http://creativecommons.org/licenses/by-sa/3.0/	Nathan Wilson	No
+https://mushroomobserver.org/images/640/1606282.jpg	Lentinula edodes	2023-09-25	http://creativecommons.org/licenses/by-sa/3.0/	Cho Fungi	No
+https://mushroomobserver.org/images/640/969969.jpg	Lentinula edodes	2018-11-15	http://creativecommons.org/licenses/by-sa/3.0/	Teodoro Chivata Bedoya	Yes
+https://mushroomobserver.org/images/640/1296106.jpg	Lentinula edodes	2018-10-25	http://creativecommons.org/licenses/by-sa/3.0/	Huafang	No
+https://mushroomobserver.org/images/640/575545.jpg	Lentinula edodes	2015-11-14	http://creativecommons.org/licenses/by-sa/3.0/	Elsa	No
+https://mushroomobserver.org/images/640/846912.jpg	Pleurotus ostreatus	2017-12-10	http://creativecommons.org/licenses/by-sa/3.0/	Eva Zupan	No
+https://mushroomobserver.org/images/640/846914.jpg	Pleurotus ostreatus	2017-12-10	http://creativecommons.org/licenses/by-sa/3.0/	Eva Zupan	No
+https://mushroomobserver.org/images/640/848410.jpg	Pleurotus ostreatus	2017-11-14	http://creativecommons.org/licenses/by-sa/3.0/	Eva Zupan	No
+https://mushroomobserver.org/images/640/428656.jpg	Pleurotus ostreatus	2014-06-23	http://creativecommons.org/licenses/by-sa/3.0/	Alan Rockefeller	Yes
+https://upload.wikimedia.org/wikipedia/commons/9/90/Enoki_mushroom.jpg	Flammulina filiformis	2017-12-20	https://creativecommons.org/licenses/by-sa/4.0/deed.en	Mitrofresh	Yes
+https://upload.wikimedia.org/wikipedia/commons/5/59/Albino_enokitake_mushrooms_%2810843680863%29.jpg	Flammulina filiformis	21 December 2009	https://creativecommons.org/licenses/by/2.0/deed.en	Wendell Smith	No
+https://mushroomobserver.org/images/640/1452110.jpg	Pleurotus eryngii	2022-04-06	http://creativecommons.org/licenses/by-sa/3.0/	Alan Rockefeller	Yes
+https://mushroomobserver.org/images/640/603892.jpg	Pleurotus eryngii	2016-03-07	http://creativecommons.org/licenses/by-sa/3.0/	Dr. Lorne Stobbs	No
+https://mushroomobserver.org/images/640/603891.jpg	Pleurotus eryngii	2016-03-07	http://creativecommons.org/licenses/by-sa/3.0/	Dr. Lorne Stobbs	No
+https://mushroomobserver.org/images/640/1709342.jpg	Grifola frondosa	2024-09-23	http://creativecommons.org/licenses/by-sa/3.0/	Eva Skific	No
+https://mushroomobserver.org/images/640/1708615.jpg	Grifola frondosa	2024-09-11	http://creativecommons.org/licenses/by-sa/3.0/	Huafang	No
+https://mushroomobserver.org/images/640/1494996.jpg	Grifola frondosa	2022-09-07	http://creativecommons.org/licenses/by-sa/3.0/	Kyle Canan	No
+https://mushroomobserver.org/images/640/1436856.jpg	Grifola frondosa	2021-10-06	http://creativecommons.org/licenses/by-sa/3.0/	Dr. Lorne Stobbs	Yes
+https://mushroomobserver.org/images/640/1712330.jpg	Hericium erinaceus	2024-10-06	http://creativecommons.org/licenses/by-sa/3.0/	Jeff  Guillemette	No
+https://mushroomobserver.org/images/640/1708613.jpg	Hericium erinaceus	2024-09-11	http://creativecommons.org/licenses/by-sa/3.0/	Huafang	No
+https://mushroomobserver.org/images/640/1294187.jpg	Hericium erinaceus	2020-12-25	http://creativecommons.org/licenses/by-sa/3.0/	Kingman Bond Graham	No
+https://mushroomobserver.org/images/640/1285204.jpg	Hericium erinaceus	2020-11-30	http://creativecommons.org/licenses/by-sa/3.0/	Na2Rluvr	Yes
+https://mushroomobserver.org/images/640/693648.jpg	Ganoderma lucidum	2016-12-01	http://creativecommons.org/licenses/by-sa/3.0/	zaca	Yes
+https://mushroomobserver.org/images/640/1027030.jpg	Ganoderma lucidum	2019-04-12	http://creativecommons.org/licenses/by-sa/3.0/	Grinenune	No
+https://mushroomobserver.org/images/640/1751410.jpg	Trametes versicolor	2025-04-12	http://creativecommons.org/licenses/by-sa/3.0/	Eva Skific	Yes
+https://mushroomobserver.org/images/640/1749805.jpg	Trametes versicolor	2025-03-29	http://creativecommons.org/licenses/by-sa/3.0/	Nathan Wilson	No
+https://mushroomobserver.org/images/640/1726954.jpg	Trametes versicolor	2024-11-27	http://creativecommons.org/licenses/by-sa/3.0/	Drew Henderson	No
+https://mushroomobserver.org/images/640/1662088.jpg	Inonotus obliquus	2024-04-05	http://creativecommons.org/licenses/by-sa/3.0/	Dave W	No
+https://mushroomobserver.org/images/640/1624986.jpg	Inonotus obliquus	2023-11-09	http://creativecommons.org/licenses/by-sa/3.0/	Jeff  Guillemette	Yes
+https://mushroomobserver.org/images/640/1080254.jpg	Inonotus obliquus	2019-07-30	http://creativecommons.org/licenses/by-sa/3.0/	Zaqri	No
+https://mushroomobserver.org/images/640/1603071.jpg	Cordyceps militaris	2023-09-26	http://creativecommons.org/licenses/by-sa/3.0/	Alan Rockefeller	No
+https://mushroomobserver.org/images/640/1603073.jpg	Cordyceps militaris	2023-09-26	http://creativecommons.org/licenses/by-sa/3.0/	Alan Rockefeller	Yes
+https://mushroomobserver.org/images/640/1479637.jpg	Cordyceps militaris	2022-07-29	http://creativecommons.org/licenses/by-sa/3.0/	Bobyonder	No
+https://mushroomobserver.org/images/640/1725981.jpg	Boletus edulis	2024-11-23	http://creativecommons.org/licenses/by-sa/3.0/	FunGuy Nate	No
+https://mushroomobserver.org/images/640/1718535.jpg	Boletus edulis	2024-10-16	http://creativecommons.org/licenses/by-sa/3.0/	Eva Skific	No
+https://mushroomobserver.org/images/640/1610982.jpg	Boletus edulis	2023-09-30	http://creativecommons.org/licenses/by-sa/3.0/	I. G. Safonov	Yes
+https://mushroomobserver.org/images/640/1329025.jpg	Morchella esculenta	2021-05-15	http://creativecommons.org/licenses/by-sa/3.0/	Betty Green	Yes
+https://mushroomobserver.org/images/640/1329030.jpg	Morchella esculenta	2021-05-15	http://creativecommons.org/licenses/by-sa/3.0/	Betty Green	No
+https://mushroomobserver.org/images/640/1326584.jpg	Morchella esculenta	2021-05-05	http://creativecommons.org/licenses/by-sa/3.0/	Betty Green	No
+https://mushroomobserver.org/images/640/1326588.jpg	Morchella esculenta	2021-05-05	http://creativecommons.org/licenses/by-sa/3.0/	Betty Green	No
+https://mushroomobserver.org/images/640/1348802.jpg	Cantharellus cibarius	2021-07-11	http://creativecommons.org/licenses/by-sa/3.0/	Betty Green	Yes
+https://mushroomobserver.org/images/640/401894.jpg	Cantharellus cibarius	2014-02-03	http://creativecommons.org/licenses/by-sa/3.0/	zaca	No
+https://mushroomobserver.org/images/640/283089.jpg	Cantharellus cibarius	2012-11-16	http://creativecommons.org/licenses/by-sa/3.0/	Andrew Tomlinson	No
+https://mushroomobserver.org/images/640/99656.jpg	Cantharellus cibarius	2010-08-19	http://creativecommons.org/licenses/by-sa/3.0/	Ryane Snow	No
+https://mushroomobserver.org/images/640/1684390.jpg	Tremella fuciformis	2024-07-20	http://creativecommons.org/licenses/by-sa/3.0/	Ryan	No
+https://mushroomobserver.org/images/640/1671789.jpg	Tremella fuciformis	2024-05-27	http://creativecommons.org/licenses/by-sa/3.0/	Dan Molter	Yes
+https://mushroomobserver.org/images/640/1482261.jpg	Tremella fuciformis	2022-08-07	http://creativecommons.org/licenses/by-sa/3.0/	Crystal (Squirrelgirl)	No
+https://mushroomobserver.org/images/640/1064512.jpg	Auricularia auricula-judae	2019-05-26	http://creativecommons.org/licenses/by-sa/3.0/	m.gokmen	No
+https://mushroomobserver.org/images/640/1145105.jpg	Auricularia auricula-judae	2007-03-31	http://creativecommons.org/licenses/by-sa/3.0/	Vasco Fachada	No
+https://mushroomobserver.org/images/640/1034600.jpg	Auricularia auricula-judae	2019-05-10	http://creativecommons.org/licenses/by-sa/3.0/	shane marshall	Yes
+https://mushroomobserver.org/images/640/1047866.jpg	Laricifomes officinalis	2019-06-10	http://creativecommons.org/licenses/by-sa/3.0/	Regina Johnson	No
+https://mushroomobserver.org/images/640/1007449.jpg	Laricifomes officinalis	2019-02-17	http://creativecommons.org/licenses/by-sa/3.0/	Regina Johnson	No
+https://mushroomobserver.org/images/640/1007451.jpg	Laricifomes officinalis	2019-02-17	http://creativecommons.org/licenses/by-sa/3.0/	Regina Johnson	Yes
+https://mushroomobserver.org/images/640/1642704.jpg	Stropharia rugosoannulata	2023-10-04	http://creativecommons.org/licenses/by-sa/3.0/	Huafang	No
+https://mushroomobserver.org/images/640/1507905.jpg	Stropharia rugosoannulata	2022-10-03	http://creativecommons.org/licenses/by-sa/3.0/	crumpybumpy	No
+https://mushroomobserver.org/images/640/1332777.jpg	Stropharia rugosoannulata	2021-06-06	http://creativecommons.org/licenses/by-sa/3.0/	Dave W	No
+https://mushroomobserver.org/images/640/1232791.jpg	Stropharia rugosoannulata	2020-08-31	http://creativecommons.org/licenses/by-sa/3.0/	Katarina	No
+https://mushroomobserver.org/images/640/1467119.jpg	Stropharia rugosoannulata	2020-02-08	http://creativecommons.org/licenses/by-sa/3.0/	Scott Ostuni	Yes
+https://mushroomobserver.org/images/640/1706684.jpg	Hypsizygus tessulatus	2024-09-03	http://creativecommons.org/licenses/by-sa/3.0/	Dave W	No
+https://mushroomobserver.org/images/640/416635.jpg	Hypsizygus tessulatus	2014-04-24	http://creativecommons.org/licenses/by-sa/3.0/	Alan Rockefeller	Yes
+https://mushroomobserver.org/images/640/721109.jpg	Hypsizygus tessulatus	2017-03-05	http://creativecommons.org/licenses/by-sa/3.0/	Alan Rockefeller	No
+https://mushroomobserver.org/images/640/867189.jpg	Agrocybe aegerita	2017-11-03	http://creativecommons.org/licenses/by-sa/3.0/	James Baker	No
+https://mushroomobserver.org/images/640/973470.jpg	Agrocybe aegerita	2018-10-29	http://creativecommons.org/licenses/by-sa/3.0/	James Baker	No
+https://mushroomobserver.org/images/640/1721083.jpg	Agrocybe aegerita	2024-09-29	http://creativecommons.org/licenses/by-sa/3.0/	Du��an	Yes
+https://mushroomobserver.org/images/640/652929.jpg	Volvariella volvacea	2016-08-28	http://creativecommons.org/licenses/by-sa/3.0/	Timothy Peden	No
+https://mushroomobserver.org/images/640/652933.jpg	Volvariella volvacea	2016-08-28	http://creativecommons.org/licenses/by-sa/3.0/	Timothy Peden	Yes
+https://mushroomobserver.org/images/640/450478.jpg	Volvariella volvacea	2014-08-31	http://creativecommons.org/licenses/by-sa/3.0/	Patrick Harvey	No
+https://mushroomobserver.org/images/640/125075.jpg	Tuber melanosporum	2010-12-06	http://creativecommons.org/licenses/by-sa/3.0/	walt sturgeon	Yes
+https://mushroomobserver.org/images/640/17780.jpg	Tuber melanosporum	2001-10-21	http://creativecommons.org/licenses/by-sa/3.0/	Daniel B. Wheeler	No
+https://mushroomobserver.org/images/640/280501.jpg	Sparassis crispa	2011-08-14	http://creativecommons.org/licenses/by-sa/3.0/	Andrew Tomlinson	No
+https://mushroomobserver.org/images/640/111534.jpg	Sparassis crispa	2010-10-12	http://creativecommons.org/licenses/by-sa/3.0/	Irene Andersson	Yes
+https://mushroomobserver.org/images/640/78041.jpg	Sparassis crispa	2008-09-01	http://creativecommons.org/licenses/by-sa/3.0/	Tatiana Bulyonkova	No

@@ -1,9 +1,10 @@
 import { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Image } from "@shared/schema";
 
 interface ImageCarouselProps {
-  images: string[];
+  images: Image[];
   alt: string;
   mushroomName: string;
 }
@@ -19,7 +20,8 @@ export default function ImageCarousel({ images, alt, mushroomName }: ImageCarous
     setCurrentIndex((prev) => (prev - 1 + images.length) % images.length);
   };
 
-  const currentImage = images[currentIndex] || "https://via.placeholder.com/800x400?text=No+Image+Available";
+  const currentImageObj = images[currentIndex];
+  const currentImage = currentImageObj?.url || "https://via.placeholder.com/800x400?text=No+Image+Available";
 
   return (
     <div className="mb-8">
@@ -35,6 +37,11 @@ export default function ImageCarousel({ images, alt, mushroomName }: ImageCarous
           <h1 className="text-3xl font-bold mb-2" data-testid="text-mushroom-title">
             {mushroomName}
           </h1>
+          {currentImageObj && (
+            <p className="text-sm text-white/90" data-testid="text-image-attribution">
+              {currentImageObj.attribution} and {currentImageObj.date}, used under {currentImageObj.license.includes('creativecommons.org') ? 'Creative Commons' : currentImageObj.license}
+            </p>
+          )}
         </div>
         
         {images.length > 1 && (

@@ -18,10 +18,18 @@ export const affiliateLinkSchema = z.object({
   description: z.string().optional(),
 });
 
+export const imageSchema = z.object({
+  url: z.string(),
+  attribution: z.string(),
+  date: z.string(),
+  license: z.string(),
+  isThumbnail: z.boolean(),
+});
+
 export const mushroomSchema = z.object({
   id: z.string(),
   name: z.string(),
-  images: z.array(z.string()),
+  images: z.array(imageSchema),
   summary: z.string(),
   benefits: z.array(z.string()),
   typical_usage: z.string(),
@@ -34,6 +42,7 @@ export const mushroomSchema = z.object({
 });
 
 export type Mushroom = z.infer<typeof mushroomSchema>;
+export type Image = z.infer<typeof imageSchema>;
 export type ActiveCompound = z.infer<typeof activeCompoundSchema>;
 export type ClinicalLink = z.infer<typeof clinicalLinkSchema>;
 export type AffiliateLink = z.infer<typeof affiliateLinkSchema>;
