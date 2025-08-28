@@ -3,7 +3,7 @@
     "id": "mushroom_1",
     "name": "Button / Cremini / Portobello (Agaricus bisporus)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Agaricus_bisporus_G4.JPG"
     ],
     "summary": "\u2022 Rich in B-vitamins and minerals that support metabolism.",
     "benefits": [
@@ -37,7 +37,7 @@
     "id": "mushroom_2",
     "name": "Shiitake (Lentinula edodes)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Lentinula_edodes_shiitake.JPG"
     ],
     "summary": "\u2022 Supports immune function through lentinan polysaccharides.",
     "benefits": [
@@ -71,7 +71,7 @@
     "id": "mushroom_3",
     "name": "Oyster (Pleurotus ostreatus)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Oyster_mushroom_(Pleurotus_ostreatus)_mycelium_on_coffee_grounds.JPG"
     ],
     "summary": "\u2022 \u03b2-glucans may reduce cholesterol.",
     "benefits": [
@@ -105,7 +105,7 @@
     "id": "mushroom_4",
     "name": "Enoki (Flammulina filiformis)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flammulina_velutipes.JPG"
     ],
     "summary": "\u2022 Rich in antioxidants like ergothioneine.",
     "benefits": [
@@ -139,7 +139,7 @@
     "id": "mushroom_5",
     "name": "King trumpet (Pleurotus eryngii)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Boxes_of_maitake_%26_tree_oyster_mushrooms.JPG"
     ],
     "summary": "\u2022 Dietary fiber and \u03b2-glucans aid gut health.",
     "benefits": [
@@ -169,7 +169,7 @@
     "id": "mushroom_6",
     "name": "Maitake (Grifola frondosa)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemeine_Steinpilz_%28Boletus_edulis%29.JPG"
     ],
     "summary": "\u2022 D-fraction \u03b2-glucans modulate immunity.",
     "benefits": [
@@ -203,7 +203,7 @@
     "id": "mushroom_7",
     "name": "Lion\u2019s Mane (Hericium erinaceus)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hericium_erinaceus.JPG"
     ],
     "summary": "\u2022 Stimulates nerve growth factor (NGF).",
     "benefits": [
@@ -233,7 +233,7 @@
     "id": "mushroom_8",
     "name": "Reishi / Lingzhi (Ganoderma lucidum)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ganoderma_lucidum_01.jpg"
     ],
     "summary": "\u2022 Immune modulator via triterpenes & polysaccharides.",
     "benefits": [
@@ -267,7 +267,7 @@
     "id": "mushroom_9",
     "name": "Turkey Tail (Trametes versicolor)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Trametes_versicolor.JPG"
     ],
     "summary": "\u2022 Polysaccharopeptides (PSP/PSK) studied for immune support.",
     "benefits": [
@@ -301,7 +301,7 @@
     "id": "mushroom_10",
     "name": "Chaga (Inonotus obliquus)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chaga_Mushroom_-_Inonotus_obliquus_(40358524662).jpg"
     ],
     "summary": "\u2022 Rich in antioxidants (melanins, polyphenols).",
     "benefits": [
@@ -335,7 +335,7 @@
     "id": "mushroom_11",
     "name": "Cordyceps (Ophiocordyceps sinensis / Cordyceps militaris)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemeine_Steinpilz_%28Boletus_edulis%29.JPG"
     ],
     "summary": "\u2022 Enhances energy/endurance (ATP support).",
     "benefits": [
@@ -369,7 +369,7 @@
     "id": "mushroom_12",
     "name": "Porcini (Boletus edulis)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Boxes_of_maitake_%26_tree_oyster_mushrooms.JPG"
     ],
     "summary": "\u2022 Antioxidant and phenolic compounds.",
     "benefits": [
@@ -399,7 +399,7 @@
     "id": "mushroom_13",
     "name": "Morel (Morchella esculenta)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chaga_Mushroom_-_Inonotus_obliquus_(40358524662).jpg"
     ],
     "summary": "\u2022 Rich in antioxidants and vitamins.",
     "benefits": [
@@ -429,7 +429,7 @@
     "id": "mushroom_14",
     "name": "Chanterelle (Cantharellus cibarius)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemeine_Steinpilz_%28Boletus_edulis%29.JPG"
     ],
     "summary": "\u2022 Rich in carotenoids, vitamin D precursors.",
     "benefits": [
@@ -459,7 +459,7 @@
     "id": "mushroom_15",
     "name": "Snow Fungus / Silver Ear (Tremella fuciformis)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Boxes_of_maitake_%26_tree_oyster_mushrooms.JPG"
     ],
     "summary": "\u2022 Hydrating polysaccharides for skin.",
     "benefits": [
@@ -489,7 +489,7 @@
     "id": "mushroom_16",
     "name": "Wood Ear (Auricularia auricula-judae)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chaga_Mushroom_-_Inonotus_obliquus_(40358524662).jpg"
     ],
     "summary": "\u2022 Rich in iron & fiber.",
     "benefits": [
@@ -519,7 +519,7 @@
     "id": "mushroom_17",
     "name": "Agarikon (Laricifomes officinalis)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemeine_Steinpilz_%28Boletus_edulis%29.JPG"
     ],
     "summary": "\u2022 Traditional European remedy for respiratory infections.",
     "benefits": [
@@ -549,7 +549,7 @@
     "id": "mushroom_18",
     "name": "King Stropharia / Wine Cap (Stropharia rugosoannulata)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Boxes_of_maitake_%26_tree_oyster_mushrooms.JPG"
     ],
     "summary": "\u2022 Edible gourmet mushroom.",
     "benefits": [
@@ -579,7 +579,7 @@
     "id": "mushroom_19",
     "name": "Shimeji (Hypsizygus tessellatus)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chaga_Mushroom_-_Inonotus_obliquus_(40358524662).jpg"
     ],
     "summary": "\u2022 Rich in antioxidants and polysaccharides.",
     "benefits": [
@@ -609,7 +609,7 @@
     "id": "mushroom_20",
     "name": "Pioppino (Agrocybe aegerita)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemeine_Steinpilz_%28Boletus_edulis%29.JPG"
     ],
     "summary": "\u2022 Contains antioxidants and ergosterol.",
     "benefits": [
@@ -639,7 +639,7 @@
     "id": "mushroom_21",
     "name": "Paddy Straw (Volvariella volvacea)",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/8/8f/Boxes_of_maitake_%26_tree_oyster_mushrooms.JPG"
     ],
     "summary": "\u2022 Rich in protein and vitamins.",
     "benefits": [
@@ -669,7 +669,7 @@
     "id": "mushroom_22",
     "name": "Black Truffle (Tuber melanosporum)",
     "images": [
-      "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/b/bd/Chaga_Mushroom_-_Inonotus_obliquus_(40358524662).jpg"
     ],
     "summary": "\u2022 Culinary delicacy with unique volatiles.",
     "benefits": [
@@ -699,7 +699,7 @@
     "id": "mushroom_23",
     "name": "Cauliflower Mushroom (Sparassis crispa)",
     "images": [
-      "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?w=400&h=300&fit=crop&crop=center"
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gemeine_Steinpilz_%28Boletus_edulis%29.JPG"
     ],
     "summary": "\u2022 Immune-enhancing \u03b2-glucans.",
     "benefits": [
