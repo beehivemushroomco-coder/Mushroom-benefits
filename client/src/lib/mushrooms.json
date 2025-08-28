@@ -551,5 +551,680 @@
     ],
     "articles": [],
     "affiliate_links": []
+  },
+  {
+    "id": "mushroom_11",
+    "name": "Cordyceps (Ophiocordyceps sinensis / Cordyceps militaris)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1603073.jpg",
+        "attribution": "Alan Rockefeller",
+        "date": "2023-09-26",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1603071.jpg",
+        "attribution": "Alan Rockefeller",
+        "date": "2023-09-26",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1479637.jpg",
+        "attribution": "Bobyonder",
+        "date": "2022-07-29",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Enhances energy/endurance (ATP support).",
+    "benefits": [
+      "Enhances energy/endurance (ATP support).",
+      "May improve kidney function in CKD.",
+      "Supports lung health."
+    ],
+    "typical_usage": "Extract, capsules, tea",
+    "tcm_usage": "TCM: Lung & kidney tonic (Dong Chong Xia Cao)",
+    "active_compounds": [
+      {
+        "name": "Cordycepin",
+        "link": "https://en.wikipedia.org/wiki/Cordycepin"
+      },
+      {
+        "name": "Polysaccharide",
+        "link": "https://en.wikipedia.org/wiki/Polysaccharide"
+      }
+    ],
+    "safety": "Caution with autoimmune disease; mild GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26637826/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_12",
+    "name": "Porcini (Boletus edulis)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1610982.jpg",
+        "attribution": "I. G. Safonov",
+        "date": "2023-09-30",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1725981.jpg",
+        "attribution": "FunGuy Nate",
+        "date": "2024-11-23",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1718535.jpg",
+        "attribution": "Eva Skific",
+        "date": "2024-10-16",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Antioxidant and phenolic compounds.",
+    "benefits": [
+      "Antioxidant and phenolic compounds.",
+      "High in dietary fiber.",
+      "Rich culinary flavor."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Phenolic_acid",
+        "link": "https://en.wikipedia.org/wiki/Phenolic_acid"
+      }
+    ],
+    "safety": "Safe; occasional allergy.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_13",
+    "name": "Morel (Morchella esculenta)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1329025.jpg",
+        "attribution": "Betty Green",
+        "date": "2021-05-15",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1329030.jpg",
+        "attribution": "Betty Green",
+        "date": "2021-05-15",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1326584.jpg",
+        "attribution": "Betty Green",
+        "date": "2021-05-05",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1326588.jpg",
+        "attribution": "Betty Green",
+        "date": "2021-05-05",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in antioxidants and vitamins.",
+    "benefits": [
+      "Rich in antioxidants and vitamins.",
+      "High in protein relative to other fungi.",
+      "Immune-modulating polysaccharides."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Must be cooked (raw may be toxic).",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_14",
+    "name": "Chanterelle (Cantharellus cibarius)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1348802.jpg",
+        "attribution": "Betty Green",
+        "date": "2021-07-11",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/401894.jpg",
+        "attribution": "zaca",
+        "date": "2014-02-03",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/283089.jpg",
+        "attribution": "Andrew Tomlinson",
+        "date": "2012-11-16",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/99656.jpg",
+        "attribution": "Ryane Snow",
+        "date": "2010-08-19",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in carotenoids, vitamin D precursors.",
+    "benefits": [
+      "Rich in carotenoids, vitamin D precursors.",
+      "Antioxidant capacity.",
+      "Culinary delicacy."
+    ],
+    "typical_usage": "Gourmet food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Carotenoid",
+        "link": "https://en.wikipedia.org/wiki/Carotenoid"
+      }
+    ],
+    "safety": "Safe; occasional GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_15",
+    "name": "Snow Fungus / Silver Ear (Tremella fuciformis)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1671789.jpg",
+        "attribution": "Dan Molter",
+        "date": "2024-05-27",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1684390.jpg",
+        "attribution": "Ryan",
+        "date": "2024-07-20",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1482261.jpg",
+        "attribution": "Crystal (Squirrelgirl)",
+        "date": "2022-08-07",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Hydrating polysaccharides for skin.",
+    "benefits": [
+      "Hydrating polysaccharides for skin.",
+      "Supports immune system.",
+      "Antioxidant properties."
+    ],
+    "typical_usage": "Desserts, soups, extract",
+    "tcm_usage": "TCM: Yin-nourishing, moistens lungs",
+    "active_compounds": [
+      {
+        "name": "Tremella",
+        "link": "https://en.wikipedia.org/wiki/Tremella"
+      }
+    ],
+    "safety": "Safe; very mild GI upset possible.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30669793/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_16",
+    "name": "Wood Ear (Auricularia auricula-judae)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1034600.jpg",
+        "attribution": "shane marshall",
+        "date": "2019-05-10",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1064512.jpg",
+        "attribution": "m.gokmen",
+        "date": "2019-05-26",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1145105.jpg",
+        "attribution": "Vasco Fachada",
+        "date": "2007-03-31",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in iron & fiber.",
+    "benefits": [
+      "Rich in iron & fiber.",
+      "Antioxidant polysaccharides.",
+      "May support cholesterol control."
+    ],
+    "typical_usage": "Soups, stir-fry, extract",
+    "tcm_usage": "TCM: Improves circulation",
+    "active_compounds": [
+      {
+        "name": "Auricularia_auricula-judae",
+        "link": "https://en.wikipedia.org/wiki/Auricularia_auricula-judae"
+      }
+    ],
+    "safety": "May increase bleeding risk.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_17",
+    "name": "Agarikon (Laricifomes officinalis)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1007451.jpg",
+        "attribution": "Regina Johnson",
+        "date": "2019-02-17",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1047866.jpg",
+        "attribution": "Regina Johnson",
+        "date": "2019-06-10",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1007449.jpg",
+        "attribution": "Regina Johnson",
+        "date": "2019-02-17",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Traditional European remedy for respiratory infections.",
+    "benefits": [
+      "Traditional European remedy for respiratory infections.",
+      "Antimicrobial compounds identified.",
+      "Antioxidant polysaccharides."
+    ],
+    "typical_usage": "Extract",
+    "tcm_usage": "Folk European use (not TCM)",
+    "active_compounds": [
+      {
+        "name": "Lanostane",
+        "link": "https://en.wikipedia.org/wiki/Lanostane"
+      }
+    ],
+    "safety": "Sparse human data; avoid during pregnancy.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_18",
+    "name": "King Stropharia / Wine Cap (Stropharia rugosoannulata)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1467119.jpg",
+        "attribution": "Scott Ostuni",
+        "date": "2020-02-08",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1642704.jpg",
+        "attribution": "Huafang",
+        "date": "2023-10-04",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1507905.jpg",
+        "attribution": "crumpybumpy",
+        "date": "2022-10-03",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1332777.jpg",
+        "attribution": "Dave W",
+        "date": "2021-06-06",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1232791.jpg",
+        "attribution": "Katarina",
+        "date": "2020-08-31",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Edible gourmet mushroom.",
+    "benefits": [
+      "Edible gourmet mushroom.",
+      "Contains immune-supportive polysaccharides.",
+      "Useful in permaculture for soil health."
+    ],
+    "typical_usage": "Food, cultivation",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe, but must not be confused with toxic lookalikes.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_19",
+    "name": "Shimeji (Hypsizygus tessellatus)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/416635.jpg",
+        "attribution": "Alan Rockefeller",
+        "date": "2014-04-24",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1706684.jpg",
+        "attribution": "Dave W",
+        "date": "2024-09-03",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/721109.jpg",
+        "attribution": "Alan Rockefeller",
+        "date": "2017-03-05",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in antioxidants and polysaccharides.",
+    "benefits": [
+      "Rich in antioxidants and polysaccharides.",
+      "Immune supportive activity.",
+      "Popular gourmet mushroom."
+    ],
+    "typical_usage": "Food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe; bitter if eaten raw.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_20",
+    "name": "Pioppino (Agrocybe aegerita)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1721083.jpg",
+        "attribution": "Dušan",
+        "date": "2024-09-29",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/867189.jpg",
+        "attribution": "James Baker",
+        "date": "2017-11-03",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/973470.jpg",
+        "attribution": "James Baker",
+        "date": "2018-10-29",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Contains antioxidants and ergosterol.",
+    "benefits": [
+      "Contains antioxidants and ergosterol.",
+      "May support cholesterol management.",
+      "Popular in Mediterranean cuisine."
+    ],
+    "typical_usage": "Food, extract",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Ergosterol",
+        "link": "https://en.wikipedia.org/wiki/Ergosterol"
+      }
+    ],
+    "safety": "Safe when cooked; raw may cause GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_21",
+    "name": "Paddy Straw (Volvariella volvacea)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/652933.jpg",
+        "attribution": "Timothy Peden",
+        "date": "2016-08-28",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/652929.jpg",
+        "attribution": "Timothy Peden",
+        "date": "2016-08-28",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/450478.jpg",
+        "attribution": "Patrick Harvey",
+        "date": "2014-08-31",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in protein and vitamins.",
+    "benefits": [
+      "Rich in protein and vitamins.",
+      "Widely cultivated in SE Asia.",
+      "Contains polysaccharides with antioxidant activity."
+    ],
+    "typical_usage": "Food",
+    "tcm_usage": "Limited TCM use",
+    "active_compounds": [
+      {
+        "name": "Polysaccharide",
+        "link": "https://en.wikipedia.org/wiki/Polysaccharide"
+      }
+    ],
+    "safety": "Safe; allergenic in rare cases.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_22",
+    "name": "Black Truffle (Tuber melanosporum)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/125075.jpg",
+        "attribution": "walt sturgeon",
+        "date": "2010-12-06",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/17780.jpg",
+        "attribution": "Daniel B. Wheeler",
+        "date": "2001-10-21",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Culinary delicacy with unique volatiles.",
+    "benefits": [
+      "Culinary delicacy with unique volatiles.",
+      "Contains antioxidants.",
+      "Possible antimicrobial compounds."
+    ],
+    "typical_usage": "Food",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Volatile_organic_compound",
+        "link": "https://en.wikipedia.org/wiki/Volatile_organic_compound"
+      }
+    ],
+    "safety": "Safe; very expensive, rare adulteration.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_23",
+    "name": "Cauliflower Mushroom (Sparassis crispa)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/111534.jpg",
+        "attribution": "Irene Andersson",
+        "date": "2010-10-12",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/280501.jpg",
+        "attribution": "Andrew Tomlinson",
+        "date": "2011-08-14",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/78041.jpg",
+        "attribution": "Tatiana Bulyonkova",
+        "date": "2008-09-01",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Immune-enhancing β-glucans.",
+    "benefits": [
+      "Immune-enhancing β-glucans.",
+      "Potential neuroprotective effects.",
+      "Edible and flavorful."
+    ],
+    "typical_usage": "Food, extract",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe; occasional mild GI upset.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29156571/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
   }
 ]
