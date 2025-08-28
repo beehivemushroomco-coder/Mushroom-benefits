@@ -16,7 +16,7 @@ export default function MushroomCard({ mushroom }: MushroomCardProps) {
           {/* Mushroom Image */}
           <div className="lg:w-48 flex-shrink-0">
             <img
-              src={mushroom.images[0] || "https://via.placeholder.com/400x300/6b7280/ffffff?text=Mushroom+Image"}
+              src={mushroom.images.find(img => img.isThumbnail)?.url || mushroom.images[0]?.url || "https://via.placeholder.com/400x300/6b7280/ffffff?text=Mushroom+Image"}
               alt={mushroom.name}
               className="w-full h-48 lg:h-full object-cover rounded-lg"
               data-testid={`img-mushroom-${mushroom.id}`}

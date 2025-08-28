@@ -120,5 +120,436 @@
     ],
     "articles": [],
     "affiliate_links": []
+  },
+  {
+    "id": "mushroom_3",
+    "name": "Oyster (Pleurotus ostreatus)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/428656.jpg",
+        "attribution": "Alan Rockefeller",
+        "date": "2014-06-23",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/846912.jpg",
+        "attribution": "Eva Zupan",
+        "date": "2017-12-10",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/846914.jpg",
+        "attribution": "Eva Zupan",
+        "date": "2017-12-10",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/848410.jpg",
+        "attribution": "Eva Zupan",
+        "date": "2017-11-14",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "β-glucans may reduce cholesterol.",
+    "benefits": [
+      "β-glucans may reduce cholesterol.",
+      "Contains lovastatin-like compounds.",
+      "Good protein and micronutrient source."
+    ],
+    "typical_usage": "Food, powder",
+    "tcm_usage": "Not major TCM use",
+    "active_compounds": [
+      {
+        "name": "Lovastatin",
+        "link": "https://en.wikipedia.org/wiki/Lovastatin"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Rare allergies; may interact with statins.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18544117/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_4",
+    "name": "Enoki (Flammulina filiformis)",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Enoki_mushroom.jpg",
+        "attribution": "Mitrofresh",
+        "date": "2017-12-20",
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Albino_enokitake_mushrooms_%2810843680863%29.jpg",
+        "attribution": "Wendell Smith",
+        "date": "21 December 2009",
+        "license": "https://creativecommons.org/licenses/by/2.0/deed.en",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in antioxidants like ergothioneine.",
+    "benefits": [
+      "Rich in antioxidants like ergothioneine.",
+      "Polysaccharides studied for immune activity.",
+      "Traditional food linked with longevity."
+    ],
+    "typical_usage": "Soups, food, extract",
+    "tcm_usage": "Food therapy only",
+    "active_compounds": [
+      {
+        "name": "Ergothioneine",
+        "link": "https://en.wikipedia.org/wiki/Ergothioneine"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Generally safe; must be cooked to avoid mild toxins.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551042/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_5",
+    "name": "King trumpet (Pleurotus eryngii)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1452110.jpg",
+        "attribution": "Alan Rockefeller",
+        "date": "2022-04-06",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/603892.jpg",
+        "attribution": "Dr. Lorne Stobbs",
+        "date": "2016-03-07",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/603891.jpg",
+        "attribution": "Dr. Lorne Stobbs",
+        "date": "2016-03-07",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Dietary fiber and β-glucans aid gut health.",
+    "benefits": [
+      "Dietary fiber and β-glucans aid gut health.",
+      "Possible lipid-lowering activity.",
+      "High antioxidant content."
+    ],
+    "typical_usage": "Food, powder",
+    "tcm_usage": "Not in TCM classics",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "Safe; same cautions as other mushrooms.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551042/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_6",
+    "name": "Maitake (Grifola frondosa)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1436856.jpg",
+        "attribution": "Dr. Lorne Stobbs",
+        "date": "2021-10-06",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1709342.jpg",
+        "attribution": "Eva Skific",
+        "date": "2024-09-23",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1708615.jpg",
+        "attribution": "Huafang",
+        "date": "2024-09-11",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1494996.jpg",
+        "attribution": "Kyle Canan",
+        "date": "2022-09-07",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "D-fraction β-glucans modulate immunity.",
+    "benefits": [
+      "D-fraction β-glucans modulate immunity.",
+      "May support healthy blood sugar regulation.",
+      "Antioxidant activity."
+    ],
+    "typical_usage": "Food, extract, tea",
+    "tcm_usage": "TCM: qi-tonic, immune support",
+    "active_compounds": [
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      },
+      {
+        "name": "Grifola_frondosa",
+        "link": "https://en.wikipedia.org/wiki/Grifola_frondosa"
+      }
+    ],
+    "safety": "May enhance hypoglycemic drugs.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30216240/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_7",
+    "name": "Lion's Mane (Hericium erinaceus)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1285204.jpg",
+        "attribution": "Na2Rluvr",
+        "date": "2020-11-30",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1712330.jpg",
+        "attribution": "Jeff  Guillemette",
+        "date": "2024-10-06",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1708613.jpg",
+        "attribution": "Huafang",
+        "date": "2024-09-11",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1294187.jpg",
+        "attribution": "Kingman Bond Graham",
+        "date": "2020-12-25",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Stimulates nerve growth factor (NGF).",
+    "benefits": [
+      "Stimulates nerve growth factor (NGF).",
+      "Small RCTs show cognitive improvement.",
+      "Supports digestion."
+    ],
+    "typical_usage": "Extract, capsules, tea",
+    "tcm_usage": "TCM: Spleen/stomach tonic",
+    "active_compounds": [
+      {
+        "name": "Hericium_erinaceus",
+        "link": "https://en.wikipedia.org/wiki/Hericium_erinaceus"
+      }
+    ],
+    "safety": "Generally safe; mild GI upset possible.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18844328/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_8",
+    "name": "Reishi / Lingzhi (Ganoderma lucidum)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/693648.jpg",
+        "attribution": "zaca",
+        "date": "2016-12-01",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1027030.jpg",
+        "attribution": "Grinenune",
+        "date": "2019-04-12",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Immune modulator via triterpenes & polysaccharides.",
+    "benefits": [
+      "Immune modulator via triterpenes & polysaccharides.",
+      "May improve sleep and reduce fatigue.",
+      "Studied as adjunct in cancer care."
+    ],
+    "typical_usage": "Tea, extract, spores",
+    "tcm_usage": "TCM: Shen-calming, Qi-tonifying",
+    "active_compounds": [
+      {
+        "name": "Ganoderic_acid",
+        "link": "https://en.wikipedia.org/wiki/Ganoderic_acid"
+      },
+      {
+        "name": "Beta-glucan",
+        "link": "https://en.wikipedia.org/wiki/Beta-glucan"
+      }
+    ],
+    "safety": "May increase bleeding risk (anticoagulants); caution with hypotension.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/ganoderma"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_9",
+    "name": "Turkey Tail (Trametes versicolor)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1751410.jpg",
+        "attribution": "Eva Skific",
+        "date": "2025-04-12",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1749805.jpg",
+        "attribution": "Nathan Wilson",
+        "date": "2025-03-29",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1726954.jpg",
+        "attribution": "Drew Henderson",
+        "date": "2024-11-27",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Polysaccharopeptides (PSP/PSK) studied for immune support.",
+    "benefits": [
+      "Polysaccharopeptides (PSP/PSK) studied for immune support.",
+      "Adjunct in cancer immunotherapy.",
+      "Antioxidant activity."
+    ],
+    "typical_usage": "Extract, tea",
+    "tcm_usage": "TCM: Yunzhi, immune tonic",
+    "active_compounds": [
+      {
+        "name": "Krestin",
+        "link": "https://en.wikipedia.org/wiki/Krestin"
+      },
+      {
+        "name": "Polysaccharide-peptide",
+        "link": "https://en.wikipedia.org/wiki/Polysaccharide-peptide"
+      }
+    ],
+    "safety": "Safe; GI upset possible; interacts with immunotherapy.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22891863/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
+  },
+  {
+    "id": "mushroom_10",
+    "name": "Chaga (Inonotus obliquus)",
+    "images": [
+      {
+        "url": "https://mushroomobserver.org/images/640/1624986.jpg",
+        "attribution": "Jeff  Guillemette",
+        "date": "2023-11-09",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": true
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1662088.jpg",
+        "attribution": "Dave W",
+        "date": "2024-04-05",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      },
+      {
+        "url": "https://mushroomobserver.org/images/640/1080254.jpg",
+        "attribution": "Zaqri",
+        "date": "2019-07-30",
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "isThumbnail": false
+      }
+    ],
+    "summary": "Rich in antioxidants (melanins, polyphenols).",
+    "benefits": [
+      "Rich in antioxidants (melanins, polyphenols).",
+      "Folk remedy for immune & gut health.",
+      "Anti-inflammatory potential."
+    ],
+    "typical_usage": "Tea, extract",
+    "tcm_usage": "Not in TCM",
+    "active_compounds": [
+      {
+        "name": "Melanin",
+        "link": "https://en.wikipedia.org/wiki/Melanin"
+      },
+      {
+        "name": "Betulinic_acid",
+        "link": "https://en.wikipedia.org/wiki/Betulinic_acid"
+      }
+    ],
+    "safety": "May lower blood sugar; caution with anticoagulants.",
+    "clinical_links": [
+      {
+        "title": "Clinical Research",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33119922/"
+      }
+    ],
+    "articles": [],
+    "affiliate_links": []
   }
 ]

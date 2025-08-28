@@ -39,7 +39,7 @@ export default function ImageCarousel({ images, alt, mushroomName }: ImageCarous
           </h1>
           {currentImageObj && (
             <p className="text-sm text-white/90" data-testid="text-image-attribution">
-              {currentImageObj.attribution} and {currentImageObj.date}, used under {currentImageObj.license.includes('creativecommons.org') ? 'Creative Commons' : currentImageObj.license}
+              {currentImageObj.attribution} {currentImageObj.date}, Used Under <a href={currentImageObj.license} target="_blank" rel="noopener noreferrer" className="underline hover:text-white">{currentImageObj.license.includes('creativecommons.org') ? 'Creative Commons' : 'License'}</a>
             </p>
           )}
         </div>
