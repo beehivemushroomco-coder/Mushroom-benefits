@@ -1,8 +1,6 @@
 import { useState } from "react";
-import { ChevronLeft, ChevronRight, Upload } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
 
 interface ImageCarouselProps {
   images: string[];
@@ -76,24 +74,6 @@ export default function ImageCarousel({ images, alt, mushroomName }: ImageCarous
             ))}
           </div>
         )}
-      </div>
-      
-      {/* Image Upload Input */}
-      <div className="mt-4">
-        <Label htmlFor="image-upload" className="flex items-center justify-center w-full h-32 border-2 border-dashed border-border rounded-lg cursor-pointer hover:bg-muted/50 transition-colors">
-          <div className="text-center">
-            <Upload className="mx-auto h-8 w-8 text-muted-foreground mb-2" />
-            <p className="text-sm text-muted-foreground">Upload custom mushroom images</p>
-          </div>
-          <Input
-            id="image-upload"
-            type="file"
-            className="hidden"
-            accept="image/*"
-            multiple
-            data-testid="input-image-upload"
-          />
-        </Label>
       </div>
     </div>
   );
