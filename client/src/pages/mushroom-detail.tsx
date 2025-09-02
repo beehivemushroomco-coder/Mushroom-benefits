@@ -361,7 +361,7 @@ export default function MushroomDetailPage() {
             </CardContent>
           </Card>
 
-          {/* Discussion Placeholder */}
+          {/* Discussion Placeholder - Hidden until implementation ready
           <Card>
             <CardContent className="p-6">
               <h2 className="text-xl font-bold text-foreground mb-4 flex items-center">
@@ -375,6 +375,7 @@ export default function MushroomDetailPage() {
               </div>
             </CardContent>
           </Card>
+          */}
         </div>
       </div>
 
