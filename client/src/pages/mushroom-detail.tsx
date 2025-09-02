@@ -207,7 +207,7 @@ export default function MushroomDetailPage() {
               <CardContent className="p-6">
                 <h2 className="text-xl font-bold text-foreground mb-4 flex items-center">
                   <Leaf className="text-primary mr-3 h-5 w-5" />
-                  Typical Usage
+                  Typically Consumed By
                 </h2>
                 <p className="text-muted-foreground" data-testid="text-typical-usage">
                   {mushroom.typical_usage}
@@ -219,7 +219,7 @@ export default function MushroomDetailPage() {
               <CardContent className="p-6">
                 <h2 className="text-xl font-bold text-foreground mb-4 flex items-center">
                   <Wind className="text-primary mr-3 h-5 w-5" />
-                  Traditional Chinese Medicine
+                  Traditional Medicine Usage
                 </h2>
                 <p className="text-muted-foreground" data-testid="text-tcm-usage">
                   {mushroom.tcm_usage}

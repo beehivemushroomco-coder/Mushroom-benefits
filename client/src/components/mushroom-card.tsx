@@ -59,7 +59,7 @@ export default function MushroomCard({ mushroom }: MushroomCardProps) {
               <div className="bg-muted rounded-lg p-4">
                 <h4 className="font-semibold text-foreground mb-2 flex items-center">
                   <Leaf className="text-primary mr-2 h-4 w-4" />
-                  Typical Usage
+                  Typically Consumed By
                 </h4>
                 <p className="text-sm text-muted-foreground" data-testid={`text-usage-${mushroom.id}`}>
                   {mushroom.typical_usage}
@@ -68,7 +68,7 @@ export default function MushroomCard({ mushroom }: MushroomCardProps) {
               <div className="bg-muted rounded-lg p-4">
                 <h4 className="font-semibold text-foreground mb-2 flex items-center">
                   <Wind className="text-primary mr-2 h-4 w-4" />
-                  TCM Usage
+                  Traditional Medicine Usage
                 </h4>
                 <p className="text-sm text-muted-foreground" data-testid={`text-tcm-${mushroom.id}`}>
                   {mushroom.tcm_usage}
