@@ -32,7 +32,20 @@ export class MemStorage implements IStorage {
   }
 
   async getMushrooms(): Promise<Mushroom[]> {
-    return Array.from(this.mushrooms.values());
+    const mushrooms = Array.from(this.mushrooms.values());
+    
+    // Sort to put Lion's Mane first, then alphabetically by name
+    return mushrooms.sort((a, b) => {
+      // Check if either mushroom is Lion's Mane
+      const aIsLionsMane = a.name.toLowerCase().includes("lion's mane");
+      const bIsLionsMane = b.name.toLowerCase().includes("lion's mane");
+      
+      if (aIsLionsMane && !bIsLionsMane) return -1;
+      if (!aIsLionsMane && bIsLionsMane) return 1;
+      
+      // If neither or both are Lion's Mane, sort alphabetically
+      return a.name.localeCompare(b.name);
+    });
   }
 
   async getMushroomById(id: string): Promise<Mushroom | undefined> {
