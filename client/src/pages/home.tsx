@@ -64,7 +64,7 @@ export default function HomePage() {
                 <span className="text-primary">Medicinal Mushroom Benefits, Research & Uses</span>
               </h1>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Discover the health benefits, traditional uses, and scientific research behind {mushrooms.length} powerful mushroom varieties
+                Explore information on medicinal and functional mushrooms — health benefits, traditional uses, and evidence-based research.
               </p>
             </div>
 
