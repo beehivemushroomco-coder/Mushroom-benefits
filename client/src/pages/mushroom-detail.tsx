@@ -207,7 +207,7 @@ export default function MushroomDetailPage() {
               <CardContent className="p-6">
                 <h2 className="text-xl font-bold text-foreground mb-4 flex items-center">
                   <Leaf className="text-primary mr-3 h-5 w-5" />
-                  Typically Consumed By
+                  Typically Consumed As
                 </h2>
                 <p className="text-muted-foreground" data-testid="text-typical-usage">
                   {mushroom.typical_usage}
