@@ -12,7 +12,7 @@ export default function Footer() {
               <span className="text-xl font-bold text-foreground">Mushroom Health</span>
             </div>
             <p className="text-muted-foreground mb-4">
-              Your comprehensive guide to medicinal and gourmet mushrooms. Discover the science-backed benefits and traditional uses of nature's most powerful fungi.
+              Your source for mushroom health information. Discover the science-backed benefits and traditional uses of nature's most powerful fungi.
             </p>
           </div>
           

@@ -16,6 +16,7 @@ The application is built with a focus on natural, vibrant design aesthetics with
 - Created privacy policy and disclaimer pages
 - Removed social media icons from footer
 - Removed Categories column from footer
+- Updated tagline to "mushroomhealth.co - Your Source for Mushroom Health Information"
 
 ## User Preferences
 

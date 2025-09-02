@@ -26,7 +26,7 @@ export default function HomePage() {
 
   // Set document title for home page
   useEffect(() => {
-    document.title = "Mushroom Health - Your Complete Guide to Medicinal Mushrooms";
+    document.title = "mushroomhealth.co - Your Source for Mushroom Health Information";
   }, []);
 
   if (isLoading) {
