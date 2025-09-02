@@ -61,8 +61,8 @@ export default function HomePage() {
             {/* Hero Section */}
             <div className="mb-12 text-center">
               <h1 className="text-4xl sm:text-5xl font-bold text-foreground mb-4">
-                Complete Guide to{" "}
-                <span className="text-primary">Medicinal Mushrooms</span>
+                Learn about{" "}
+                <span className="text-primary">Mushrooms and their Benefits</span>
               </h1>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Discover the health benefits, traditional uses, and scientific research behind {mushrooms.length} powerful mushroom varieties
