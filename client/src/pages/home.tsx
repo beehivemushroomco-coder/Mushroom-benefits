@@ -1,15 +1,19 @@
 import { useMemo, useEffect } from "react";
+import { useLocation } from "wouter";
 import Header from "@/components/header";
 import SearchOverlay from "@/components/search-overlay";
 import MushroomCard from "@/components/mushroom-card";
 import Sidebar from "@/components/sidebar";
 import Footer from "@/components/footer";
 import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Shuffle } from "lucide-react";
 import { useMushrooms } from "@/hooks/use-mushrooms";
 import { useSearch } from "@/hooks/use-search";
 
 export default function HomePage() {
   const { data: mushrooms = [], isLoading } = useMushrooms();
+  const [, setLocation] = useLocation();
   const {
     query,
     setQuery,
@@ -28,6 +32,15 @@ export default function HomePage() {
   useEffect(() => {
     document.title = "mushroomhealth.co - Your Source for Mushroom Health Information";
   }, []);
+
+  // Function to navigate to a random mushroom
+  const exploreRandomMushroom = () => {
+    if (mushrooms.length > 0) {
+      const randomIndex = Math.floor(Math.random() * mushrooms.length);
+      const randomMushroom = mushrooms[randomIndex];
+      setLocation(`/mushroom/${randomMushroom.id}`);
+    }
+  };
 
   if (isLoading) {
     return (
@@ -63,9 +76,18 @@ export default function HomePage() {
               <h1 className="text-4xl sm:text-5xl font-bold text-foreground mb-4">
                 <span className="text-primary">Medicinal Mushroom Benefits, Research & Uses</span>
               </h1>
-              <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+              <p className="text-xl text-muted-foreground max-w-3xl mx-auto mb-6">
                 Explore information on medicinal and functional mushrooms — health benefits, traditional uses, and evidence-based research.
               </p>
+              <Button 
+                onClick={exploreRandomMushroom}
+                size="lg"
+                className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-3"
+                data-testid="button-random-mushroom"
+              >
+                <Shuffle className="mr-2 h-5 w-5" />
+                Explore a Random Mushroom
+              </Button>
             </div>
 
             {/* Mushroom List */}
