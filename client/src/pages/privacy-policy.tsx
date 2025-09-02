@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
         <div className="text-center mb-12">
           <Link href="/" className="inline-flex items-center space-x-2 text-primary hover:text-primary/80 transition-colors mb-6" data-testid="link-home">
             <Sprout className="text-xl" />
-            <span className="text-xl font-bold">Mushroom Benefits</span>
+            <span className="text-xl font-bold">Mushroom Health</span>
           </Link>
           <h1 className="text-4xl font-bold text-foreground mb-4">Privacy Policy</h1>
           <p className="text-muted-foreground">
@@ -20,7 +20,7 @@ export default function PrivacyPolicy() {
           <div className="bg-card rounded-lg p-8 shadow-sm">
             <h2 className="text-2xl font-semibold text-foreground mb-4">Introduction</h2>
             <p className="text-muted-foreground mb-6">
-              This Privacy Policy describes how Mushroom Benefits ("we," "us," or "our") collects, uses, and protects your information when you visit our website.
+              This Privacy Policy describes how mushroomhealth.co ("we," "us," or "our") collects, uses, and protects your information when you visit our website.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mb-4">Information We Collect</h2>

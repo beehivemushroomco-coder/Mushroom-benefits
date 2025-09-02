@@ -8,7 +8,7 @@ export default function Disclaimer() {
         <div className="text-center mb-12">
           <Link href="/" className="inline-flex items-center space-x-2 text-primary hover:text-primary/80 transition-colors mb-6" data-testid="link-home">
             <Sprout className="text-xl" />
-            <span className="text-xl font-bold">Mushroom Benefits</span>
+            <span className="text-xl font-bold">Mushroom Health</span>
           </Link>
           <h1 className="text-4xl font-bold text-foreground mb-4">Disclaimer</h1>
           <p className="text-muted-foreground">
@@ -30,7 +30,7 @@ export default function Disclaimer() {
           <div className="bg-card rounded-lg p-8 shadow-sm">
             <h2 className="text-2xl font-semibold text-foreground mb-4">Medical Disclaimer</h2>
             <p className="text-muted-foreground mb-6">
-              The content on Mushroom Benefits is not intended to diagnose, treat, cure, or prevent any disease. Always consult with a qualified healthcare professional before starting any new supplement regimen, especially if you have existing health conditions or are taking medications.
+              The content on mushroomhealth.co is not intended to diagnose, treat, cure, or prevent any disease. Always consult with a qualified healthcare professional before starting any new supplement regimen, especially if you have existing health conditions or are taking medications.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mb-4">Product Claims</h2>
@@ -61,7 +61,7 @@ export default function Disclaimer() {
 
             <h2 className="text-2xl font-semibold text-foreground mb-4">Limitation of Liability</h2>
             <p className="text-muted-foreground mb-6">
-              Mushroom Benefits and its authors shall not be held liable for any damages, losses, or adverse reactions that may occur from the use of information provided on this website. Use this information at your own risk and discretion.
+              mushroomhealth.co and its authors shall not be held liable for any damages, losses, or adverse reactions that may occur from the use of information provided on this website. Use this information at your own risk and discretion.
             </p>
 
             <h2 className="text-2xl font-semibold text-foreground mb-4">Professional Guidance</h2>

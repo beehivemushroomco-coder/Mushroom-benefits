@@ -1,10 +1,21 @@
-# Mushroom Benefits Website
+# Mushroom Health Website (mushroomhealth.co)
 
 ## Overview
 
-This is a modern, mobile-first React application called "Mushroom Benefits" that showcases information about 25 medicinal and gourmet mushrooms. The website serves as a comprehensive guide featuring detailed mushroom profiles, health benefits, traditional uses, active compounds, and safety information. Users can browse through mushroom cards on the home page, search across all mushroom data, and view detailed information pages for individual mushrooms.
+This is a modern, mobile-first React application called "Mushroom Health" (mushroomhealth.co) that showcases information about 25 medicinal and gourmet mushrooms. The website serves as a comprehensive guide featuring detailed mushroom profiles, health benefits, traditional uses, active compounds, and safety information. Users can browse through mushroom cards on the home page, search across all mushroom data, and view detailed information pages for individual mushrooms.
 
 The application is built with a focus on natural, vibrant design aesthetics with automatic dark mode support based on user system preferences. It includes advertising integration through Google AdSense and affiliate marketing capabilities for mushroom-related products.
+
+## Recent Changes
+
+### September 2, 2025 - Rebranding to mushroomhealth.co
+- Updated site title from "Mushroom Benefits" to "Mushroom Health" 
+- Changed branding across header, footer, and page titles
+- Updated copyright to mushroomhealth.co
+- Added meta tags and SEO optimization for new domain
+- Created privacy policy and disclaimer pages
+- Removed social media icons from footer
+- Removed Categories column from footer
 
 ## User Preferences
 

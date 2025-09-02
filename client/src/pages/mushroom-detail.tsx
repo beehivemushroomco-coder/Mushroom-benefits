@@ -50,7 +50,7 @@ export default function MushroomDetailPage() {
 
   useEffect(() => {
     if (mushroom) {
-      document.title = `${mushroom.name} - Mushroom Benefits`;
+      document.title = `${mushroom.name} - Mushroom Health`;
       
       // SEO meta description
       const metaDescription = document.querySelector('meta[name="description"]');

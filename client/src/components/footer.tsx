@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Sprout className="text-primary text-xl" />
-              <span className="text-xl font-bold text-foreground">Mushroom Benefits</span>
+              <span className="text-xl font-bold text-foreground">Mushroom Health</span>
             </div>
             <p className="text-muted-foreground mb-4">
               Your comprehensive guide to medicinal and gourmet mushrooms. Discover the science-backed benefits and traditional uses of nature's most powerful fungi.
@@ -31,7 +31,7 @@ export default function Footer() {
         <div className="border-t border-border pt-8 mt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm text-muted-foreground">
-              © 2024 Mushroom Benefits. All rights reserved.
+              © 2024 mushroomhealth.co. All rights reserved.
             </p>
             <div className="text-sm text-muted-foreground flex items-center">
               <ExternalLink className="mr-1 h-3 w-3" />

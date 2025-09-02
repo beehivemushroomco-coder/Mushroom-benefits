@@ -18,7 +18,7 @@ export default function Header({ onSearchClick }: HeaderProps) {
               data-testid="link-home"
             >
               <Sprout className="mr-2 h-5 w-5" />
-              Mushroom Benefits
+              Mushroom Health
             </Link>
           </div>
           

@@ -1,4 +1,4 @@
-import { useMemo } from "react";
+import { useMemo, useEffect } from "react";
 import Header from "@/components/header";
 import SearchOverlay from "@/components/search-overlay";
 import MushroomCard from "@/components/mushroom-card";
@@ -23,6 +23,11 @@ export default function HomePage() {
   const displayedMushrooms = useMemo(() => {
     return query ? searchResults : mushrooms;
   }, [query, searchResults, mushrooms]);
+
+  // Set document title for home page
+  useEffect(() => {
+    document.title = "Mushroom Health - Your Complete Guide to Medicinal Mushrooms";
+  }, []);
 
   if (isLoading) {
     return (
